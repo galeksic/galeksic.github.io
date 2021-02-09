@@ -1,5 +1,3 @@
-README.md | index.html
-
 # galeksic.github.io
 galeksic Github website
 
